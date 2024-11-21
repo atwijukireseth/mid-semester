@@ -1,0 +1,170 @@
+body {
+    font-family: Arial, sans-serif;
+    text-size-adjust: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(57, 216, 9);
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li 
+ a:hover {
+    background-color: rgb(240, 44, 44); 
+
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+.family-member {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.family-member img {
+    width: 300px;
+    border-radius: 60%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form label {
+    display: inline-block;
+    margin-bottom: 2px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 2px;
+    margin-bottom:  
+ 10px;
+}
+
+form button {
+    background-color:  
+ #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.address{
+    font-size: large;
+    font-style: normal;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery img {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+.body1{
+    background-color: #099ba5;
+    
+}
+.body2{
+    background-color: #6e0883;
+}
+.body3{
+    background-color: #09a167;
+    background:url('house.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    text-decoration-color: #351394;
+}
+    .body h1{
+        margin-top: 100px
+        font-size 55px;
+    
+    }
+   
+
+.body4{
+    background-color: #920a7b;
+}
+.body5{
+    background-color: #4d032e;
+}
+.name{
+    
+    color: rgb(186, 199, 12);
+    font-size: 55px;
+}
+.para{
+    font-size: 40px;
+    color: #920a7b;
+}
+.name1{
+    color: aqua;
+    
+}
+.social-icons {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+    
+  }
+  
+  .social-icons a {
+    color: 
+   #b80303;
+    text-decoration: none;
+    
+  }
+  
+  .social-icons img {
+    width: 40px;
+    height: 40px;
+  }
+  .social-media a:hover {
+    color: #351394; 
+    transform: scale(2.1); 
+}
